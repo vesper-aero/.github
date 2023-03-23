@@ -33,7 +33,6 @@ Select the appropriate type(s) that describe this PR
 <!-- Put an `x` in the boxes that apply. -->
 
 - [ ] I have run `flake8` and `black` to make sure the Python code adheres to PEP-8 and is consistently formatted
-- [ ] I have formatted the Fortran code with `fprettify` or C/C++ code with `clang-format` as applicable
-- [ ] I have run unit and regression tests which pass locally with my changes
+- [ ] I have run unit, integration, and regression tests which pass locally with my changes
 - [ ] I have added new tests that prove my fix is effective or that my feature works
 - [ ] I have added necessary documentation
